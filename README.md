@@ -5,7 +5,7 @@
 
 In the last 2 years the level of bad loans has increased, this is very bad for the condition of banks. The bank needs the right solution to handle the current bank situation. The bank asked to find out what caused the credit card incident and asked to create a model that can predict credit risk so that it can be handled appropriately.
 
-![creditrisk-300x194](https://github.com/NurulIlahiHusnah/Prediksi-Credit-Risk/assets/125198828/afc4d6d5-881f-42e6-a28d-8320537a299a)
+![images](https://github.com/NurulIlahiHusnah/-Predict-Credit-Risk-Leanding-Company/assets/125198828/75a79d18-97b1-4a6d-8efa-0a242eaf02c7)
 
 
 
@@ -29,20 +29,23 @@ Insights obtained from EDA results
     
     1. Delinq 2 Years by Term
  
-![Total kenakalan terhadap tenor](https://github.com/NurulIlahiHusnah/Prediksi-Credit-Risk/assets/125198828/f94bf3f1-83e4-44a9-8f65-035184e2df07)
+![Total kenakalan terhadap tenor](https://github.com/NurulIlahiHusnah/-Predict-Credit-Risk-Leanding-Company/assets/125198828/0a228cd2-2e04-40bb-b4d0-493247783373)
+
 
     2. High Risk Goals
-![Tujuan pinjaman yang memiliki resiko tinggi](https://github.com/NurulIlahiHusnah/Prediksi-Credit-Risk/assets/125198828/50c6fa9c-dd14-470e-a81f-1c2b44eeba32)
+![Tujuan pinjaman yang memiliki resiko tinggi](https://github.com/NurulIlahiHusnah/-Predict-Credit-Risk-Leanding-Company/assets/125198828/47713c6f-83aa-4d48-b579-3253b73162d2)
+
 
     3. Comparison of Annual Income & Delinq 2 years based on region
 
-![Perbandingan Annual Income   Delinq 2 Years ](https://github.com/NurulIlahiHusnah/Prediksi-Credit-Risk/assets/125198828/f4f3fc23-46be-4f91-9f8c-274582027d1b)
+![Perbandingan Annual Income   Delinq 2 Years ](https://github.com/NurulIlahiHusnah/-Predict-Credit-Risk-Leanding-Company/assets/125198828/38e296d5-6b0e-4f91-86a4-3895ba75c812)
 
     4. Delinq by Country
-![Delinq by Country](https://github.com/NurulIlahiHusnah/Prediksi-Credit-Risk/assets/125198828/f7f9f94b-b3a0-4730-afe1-a175d58205c1)
+![Delinq by Country](https://github.com/NurulIlahiHusnah/-Predict-Credit-Risk-Leanding-Company/assets/125198828/9e09cda7-38e2-4370-83f1-5991da469f3a)
+
 
     5. Revolving Balance vs Revolving Utilization by Earliest Cr Line
-![RB vs RU ](https://github.com/NurulIlahiHusnah/Prediksi-Credit-Risk/assets/125198828/50755e18-71a4-4362-91a4-475ba89efcd0)
+![RB vs RU ](https://github.com/NurulIlahiHusnah/-Predict-Credit-Risk-Leanding-Company/assets/125198828/a8134f87-4272-4be9-a25e-b83293e21c7f)
 
 
 ### Summary
@@ -152,7 +155,7 @@ Confusion Matrik
 
 After conducting numerous experiments, it was discovered that utilizing the XGBoost model with K-Fold cross-validation resulted in a greater reduction in bad debts. The improvement compared to not using the model exceeded 45%.
 
-![Capture](https://github.com/NurulIlahiHusnah/Prediksi-Credit-Risk/assets/125198828/63104a30-47ba-4250-95ea-7e3673516d7b)
+![Capture](https://github.com/NurulIlahiHusnah/-Predict-Credit-Risk-Leanding-Company/assets/125198828/651feaaf-e3f6-4fff-a6b1-dcff29deeb20)
 
 ## Bussines Recommendation
 
